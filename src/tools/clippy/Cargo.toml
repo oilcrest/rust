@@ -27,7 +27,7 @@ rustc_tools_util = "0.3.0"
 tempfile = { version = "3.3", optional = true }
 termize = "0.1"
 color-print = "0.3.4"
-anstream = "0.6.0"
+anstream = "0.6.20"
 
 [dev-dependencies]
 cargo_metadata = "0.18.1"
