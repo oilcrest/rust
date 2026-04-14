@@ -13,4 +13,4 @@ mdbook-driver = { version = "0.5.2", features = ["search"] }
 mdbook-i18n-helpers = "0.4.0"
 mdbook-spec = { path = "../../doc/reference/tools/mdbook-spec" }
 mdbook-trpl = { path = "../../doc/book/packages/mdbook-trpl" }
-tracing-subscriber = { version = "0.3.20", features = ["env-filter"] }
+tracing-subscriber = { version = "0.3.23", features = ["env-filter"] }
